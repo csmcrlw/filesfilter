@@ -1,5 +1,5 @@
 # Files filter for Windows
-# Attention: both main.py and filesfilter.exe need to be placed in the same directory with source and destination folders!
+# Attention: both main.py and files_filter.exe need to be placed in the same directory with source and destination folders!
 ![image](https://user-images.githubusercontent.com/100966918/190925572-e783cb1e-917e-4a7b-be10-b212721fa02d.png)
 - In this case, the source folder (Telegram Desktop), the destination folder (python learning) and the executable file are in the Desktop directory.
 # For Python users:
