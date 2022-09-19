@@ -21,3 +21,5 @@ if os.path.exists(source_path):
 else:
     print('Source folder does not exist!')
 
+# чтобы программа не закрывалась сразу после выполнения
+input('Press ENTER to exit')
